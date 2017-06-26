@@ -107,8 +107,8 @@
 :END:
 - Open up Sonic Pi.
 - You should see a screen that looks something like this.
-[[http://www.sean.co.uk/books/raspberry-pi-for-dummies/gfx/sonic-pi.gif]]
-- You can write your code in =Workspace 1=
+[[./img/SonicPi.png]]
+- You can start to write your code in the code workplace Buffer 0
 ** Code It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: code
@@ -213,7 +213,7 @@ play 45
 - Now try and play the second 4 bars
 - Here's the sheet music
 #+begin_html
-<iframe src="https://docs.google.com/gview?url=http://makingmusicfun.net/pdf/sheet_music/blue-danube-piano.pdf&embedded=true" style="width:600px; height:700px;" frameborder="0"></iframe>
+<iframe src="http://www.learnpianofreesheetmusic.com/content/pdf/STRAUSS-TheBlueDanube.pdf" style="width:600px; height:700px;" frameborder="0"></iframe>
 #+end_html
 - Here's a guide for which notes or which
 [[http://mag.pianotut.ru/i/mag.pianotut.ru/ipi/32ef44be07737fdbe431c8c40f330a33.jpg]]
